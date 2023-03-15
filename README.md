@@ -1,5 +1,6 @@
 # Computational Neuroscience Tutorial 2023
 This tutorial has been designed for the following classes:
+- 2022/2023 Master class on Biorobotics and Complex Systems (Prof: Alberto Mazzoni), Physics Degree, University of Pisa, Italy
 - 2022/2023 PhD class on Information Theory and Neural Modeling for Neural Engineering (Prof: Alberto Mazzoni), PhD Program in Biorobotics, Scuola Superiore Sant'Anna, Pisa
 - 2021/2022 Master class on Biorobotics and Complex Systems (Prof: Alberto Mazzoni), Physics Degree, University of Pisa, Italy
 - 2021/2022 PhD class on Information Theory and Neural Modeling for Neural Engineering (Prof: Alberto Mazzoni), PhD Program in Biorobotics, Scuola Superiore Sant'Anna, Pisa
