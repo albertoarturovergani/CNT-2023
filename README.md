@@ -23,7 +23,7 @@ pip install PyNN
 1. login on the Jupyter Lab interface
 1. clone this repository `git clone https://github.com/albertoarturovergani/CNT-2023`
 1. Open the directory `SpiNNaker/` and run the [CNT notebook](SpiNNaker/CNT_notebook.ipynb)
-1. Some suggestions: `pip install matplotlib=="3.2.2"`
+1. Some suggestions: `pip install matplotlib==3.2.2`
 
 ## Content:
 
