@@ -1,0 +1,12 @@
+<provenance_data_items name="Provenance_for_SYSTEM:PacketGatherer(0,0)">
+  <provenance_data_items name="extraction_time">
+    <provenance_data_items name="chip0:0">
+      <provenance_data_items name="Memory_address:1613042924:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00022912025451660156</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1613042948:Length_in_bytes:1500">
+        <provenance_data_item name="run1">0.0005440711975097656</provenance_data_item>
+      </provenance_data_items>
+    </provenance_data_items>
+  </provenance_data_items>
+</provenance_data_items>
